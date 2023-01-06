@@ -33,8 +33,8 @@ function App() {
             <Link to='/dayIII' className='link'><li>day III</li></Link>
             <Link to='/dayIV' className='link'><li>day IV</li></Link>
             <Link to='/dayV' className='link'><li>day V</li></Link>
+            <Link to='/dayVI' className='link'><li>day VI</li></Link>
             <Link to='/dayVII' className='link'><li>day VII</li></Link>
-            <Link to='/dayVIII' className='link'><li>day VIII</li></Link>
           </ul>
          </nav>
          <Footer/>

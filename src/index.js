@@ -45,11 +45,11 @@ const router = createBrowserRouter ([
         element: <Day5 />
       },
       {
-        path: '/dayVII',
+        path: '/dayVI',
         element: <Day7 />
       },
       {
-        path: '/dayVIII',
+        path: '/dayVII',
         element: <Day8 />
       },
       {
